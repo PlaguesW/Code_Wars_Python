@@ -8,7 +8,8 @@
 # if x > y: 3 points (win)
 # if x < y: 0 points (loss)
 # if x = y: 1 point (tie)
-# We need to write a function that takes this collection and returns the number of points our team (x) got in the championship by the rules given above.
+# We need to write a function that takes this collection and returns the number of points
+# our team (x) got in the championship by the rules given above.
 #
 # Notes:
 #
